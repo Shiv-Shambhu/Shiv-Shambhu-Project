@@ -1,6 +1,6 @@
 [
   {
-    "project_name": "Leaf Explorer v-1.11.35",
+    "project_name": "Leaf Explorer v-1.11.38",
     "product_id": "com.leaf.explorer",
     "code_url": "https://drive.google.com/file/d/19ZP0N6YqYtk8CUn2vmvOMZAH_8WMtAJI/view?usp=drivesdk",
     "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
