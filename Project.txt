@@ -1,11 +1,11 @@
 [
   {
-    "project_name": "Leaf Explorer v-1.11.38",
-    "product_id": "com.leaf.explorer",
+    "project_name": "",
+    "product_id": "",
     "code_url": "",
-    "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
-    "info_url": "LeafExplorer_v-1.11.35.md",
-    "gist_code": "/16ddc96cebf844cb323c8b12ccb70a21551103f1/",
-    "info": "Best Android File Manager With File Share (like SHAREit) and Text Editor with Music player (Notification and Popup player) and Image Viewer."
+    "avatar_url": "",
+    "info_url": "",
+    "gist_code": "/6ad2b34c2e2a558a4283946baaba686c6f8e302e/",
+    "info": ""
   }
 ]
