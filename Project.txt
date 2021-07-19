@@ -5,7 +5,7 @@
     "code_url": "",
     "avatar_url": "",
     "info_url": "",
-    "gist_code": "/3c0b139e96d7c9d611373d5464da783252e1f6bc/",
+    "gist_code": "/6ffc83c6ffaaed6e14113e7d87cf4daf44077417/",
     "info": ""
   }
 ]
