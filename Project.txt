@@ -4,13 +4,15 @@
     "priceTag": "Free",
     "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
     "info_url": "https://github.com/Shiv-Shambhu/Leaf-Explorer",
-    "info": "Best Android File Manager With File Share (like SHAREit) and Text Editor with Music player (Notification and Popup player) and Image Viewer."
+    "info": "Best Android File Manager With File Share (like SHAREit) and Text Editor with Music player (Notification and Popup player) and Image Viewer.",
+    "project_version": "V-1.15.40"
   },
   {
     "project_name": "Shiv Shambhu Project",
     "priceTag": "Premium",
     "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
     "info_url": "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project",
-    "info": "Shiv-Shambhu-Project."
+    "info": "Shiv-Shambhu-Project.",
+    "project_version": "V-1.0"
   }
 ]
