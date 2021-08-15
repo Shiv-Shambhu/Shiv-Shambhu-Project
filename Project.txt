@@ -9,7 +9,7 @@
   },
   {
     "project_name": "Shiv Shambhu Project",
-    "priceTag": true,
+    "priceTag": false,
     "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
     "info_url": "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project",
     "info": "Shiv-Shambhu-Project.",
