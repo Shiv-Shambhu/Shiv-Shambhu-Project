@@ -10,7 +10,7 @@
   {
     "project_name": "Shiv Shambhu Project",
     "priceTag": false,
-    "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
+    "avatar_url": "https://raw.githubusercontent.com/Shiv-Shambhu/Shiv-Shambhu-Project/main/images%20(1).png",
     "info_url": "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project",
     "info": "Shiv-Shambhu-Project.",
     "project_version": "V-1.0"
@@ -18,7 +18,7 @@
   {
     "project_name": "Github SmartWebview",
     "priceTag": false,
-    "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
+    "avatar_url": "https://raw.githubusercontent.com/Mahadev-code/Github-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "info_url": "https://github.com/Mahadev-code/Github-SmartWebView",
     "info": "Github SmartWebview is a webview integrated w/ native features to help create most advanced hybrid applications.",
     "project_version": "V-1.0"
@@ -26,7 +26,7 @@
   {
     "project_name": "Android Smart Browser",
     "priceTag": false,
-    "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
+    "avatar_url": "https://raw.githubusercontent.com/Mahadev-code/AndroidSmartBrowser/master/images.png",
     "info_url": "https://github.com/Mahadev-code/AndroidSmartBrowser",
     "info": "Android Smart Browser with multi Features, Easy to use & modify code..",
     "project_version": "V-1.0"
