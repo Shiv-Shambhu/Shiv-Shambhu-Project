@@ -2,7 +2,7 @@
   {
     "project_name": "Leaf Explorer",
     "priceTag": false,
-    "avatar_url": "https://avatars.githubusercontent.com/u/10258162?v=4",
+    "avatar_url": "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/app/src/main/assets/webshare/image/icon.png",
     "info_url": "https://github.com/Shiv-Shambhu/Leaf-Explorer",
     "info": "Best Android File Manager With File Share (like SHAREit) and Text Editor with Music player (Notification and Popup player) and Image Viewer.",
     "project_version": "V-1.15.40"
