@@ -10,10 +10,10 @@
 
 ## Screenshot
 
-| <img src = "https://gitub.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/home.jpg" width = "300"/> | <img src = "https://githb.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send.jpg" width = "300"/> |
+| <img src = "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project/blob/main/Image/Capture%202021-09-01%2012.29.28.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project/blob/main/Image/Capture%202021-09-01%2012.30.38.jpg" width = "300"/>|
 |:---:|:---:|
-| Home | Send Files |
+| Homepage | Navigation |
 
-| <img src = "https://gihub.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/managerP2P.jpg" width = "300"/> | <img src = "https://githubcom/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive.jpg" width = "300"/>|
+| <img src = "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project/blob/main/Image/Capture%202021-09-01%2012.31.13.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project/blob/main/Image/Capture%202021-09-01%2012.31.41.jpg" width = "300"/>|
 |:---:|:---:|
-| P2P Manager | Receive Files |
+| Project Info | InApp Billing |
