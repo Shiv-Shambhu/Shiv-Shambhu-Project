@@ -3,6 +3,7 @@
 #### App Demo :- [https://play.google.com/store/apps/details?id=com.shiv.shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
 
 #### Source code :- Available in [Shiv Shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu) App
+#### Shiv Shambhu Version :- v-7.1.0
 
 ### Join Telegram
 1. Get all Available updates of **Shiv Shambhu Project Source code** via Telegram Channel.
@@ -14,6 +15,7 @@
 ## Features
 - [x] Standard Android UI.
 - [x] Android InApp Billing (version 4+).
+- [x] Admob Rewarded Ads.
 
 ## Screenshot
 
