@@ -16,6 +16,7 @@
 - [x] Standard Android UI.
 - [x] Android InApp Billing (version 4+).
 - [x] Admob Rewarded Ads.
+- [ ] Github SmartWebView - *Coming soon*
 
 ## Screenshot
 
