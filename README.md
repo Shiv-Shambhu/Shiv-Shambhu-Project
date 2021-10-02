@@ -1,7 +1,7 @@
 ## Shiv Shambhu Github Project
 
 #### App Demo :- [https://play.google.com/store/apps/details?id=com.shiv.shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
-#### Shiv Shambhu Version :- v-7.1.0
+#### Shiv Shambhu Version :- v-8.0.0
 #### Source code :- Available in [Shiv Shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu) App
 
 
@@ -15,8 +15,8 @@
 ## Features
 - [x] Standard Android UI.
 - [x] Android InApp Billing (version 4+).
+- [x] Github SmartWebView
 - [x] Admob Rewarded Ads.
-- [ ] Github SmartWebView - *Coming soon*
 
 ## Screenshot
 
