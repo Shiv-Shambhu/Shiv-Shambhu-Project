@@ -5,7 +5,7 @@
     "avatar_url": "https://raw.githubusercontent.com/Shiv-Shambhu/Leaf-Explorer/main/app/src/main/assets/webshare/image/icon.png",
     "info_url": "https://github.com/Shiv-Shambhu/Leaf-Explorer",
     "info": "An open-source app that allows you to transfer files one to one securely or using a browser, all without the internet with Music Player and Text Editor.",
-    "project_version": "V-1.16.60"
+    "project_version": "V-1.17.00"
   },
   {
     "project_name": "Shiv Shambhu Github Project",
