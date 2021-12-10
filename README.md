@@ -1,8 +1,8 @@
 ## Shiv Shambhu Github Project
 
-#### App Demo :- [coming soon](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
+#### App Demo :- [coming soon]()
 #### Shiv Shambhu Version :- v-8.0.0
-#### Source code :- [coming soon](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
+#### Source code :- [coming soon]()
 
 
 ### Join Telegram
