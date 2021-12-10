@@ -1,12 +1,12 @@
 ## Shiv Shambhu Github Project
 
-#### App Demo :- [https://play.google.com/store/apps/details?id=com.shiv.shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
+#### App Demo :- [coming soon](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
 #### Shiv Shambhu Version :- v-8.0.0
-#### Source code :- Available in [Shiv Shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu) App
+#### Source code :- [coming soon](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
 
 
 ### Join Telegram
-1. Get all Available updates of **Shiv Shambhu Project Source code** via Telegram Channel.
+1. Get all Available updates of **Shiv Shambhu Project** via Telegram Channel.
 2. All Information About Shiv Shambhu Github Project.
 ##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
 
@@ -17,6 +17,7 @@
 - [x] Android InApp Billing (version 4+).
 - [x] Github SmartWebView
 - [x] Admob Rewarded Ads.
+- [ ] Smart RecycleView (coming soon).
 
 ## Screenshot
 
