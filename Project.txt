@@ -8,14 +8,6 @@
     "project_version": "V-3.0.0"
   },
   {
-    "project_name": "Shiv Shambhu Github Project",
-    "priceTag": false,
-    "avatar_url": "https://raw.githubusercontent.com/Shiv-Shambhu/Shiv-Shambhu-Project/main/images%20(1).png",
-    "info_url": "https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project",
-    "info": "Android App with Standard UI, In-App-Billing API v4+, Github SmartWebView and many more features..",
-    "project_version": "V-8.0.0"
-  },
-  {
     "project_name": "Android In-App Billing Library v4+",
     "priceTag": false,
     "avatar_url": "https://raw.githubusercontent.com/Shiv-Shambhu/Shiv-Shambhu-Project/main/images%20(1).png",
